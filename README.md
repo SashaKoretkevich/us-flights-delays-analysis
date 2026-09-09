@@ -46,4 +46,3 @@ pip install -r requirements.txt
 jupyter notebook python/task2_flight_analysis.ipynb
 ```
 
-Для R-версии откройте `.Rmd` в RStudio (нужны `tidyverse`, `data.table`, `ggplot2`).
