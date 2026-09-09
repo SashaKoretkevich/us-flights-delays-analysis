@@ -30,10 +30,6 @@
 python/
   task1_random_walk_metropolis.ipynb
   task2_flight_analysis.ipynb
-r/
-  task1_random_walk_metropolis.Rmd
-  task2_flight_analysis.Rmd
-  coursework.R
 figures/     графики: распределение сэмплов, сходимость R-hat, задержки,
              возраст бортов, коэффициенты модели
 report/report.pdf   отчёт с методикой и выводами
